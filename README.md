@@ -13,7 +13,7 @@ Add this repo to your bundles.
     cd ~/.vim/bundle
     git clone git://github.com/zephod/vim-iterm2/navigator
 
-Now configure iTerm2's keyboard shortcuts. **Cmd-J** should be set to **run coprocess**. This coprocess is `~/.vim/bundles/vim-iterm2-navigator/switch.py j`. Note the argument passed to the script.  Screenshot of settings:
+Now configure iTerm2's keyboard shortcuts. **Cmd-J** should be set to **run coprocess**. This coprocess is `~/.vim/bundle/vim-iterm2-navigator/switch.py j`. Note the argument passed to the script.  Screenshot of settings:
 
 ![iterm2 config keys](iterm2_options.png)
 
